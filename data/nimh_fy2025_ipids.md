@@ -11,3 +11,7 @@ answering an arithmetic bot-check on the search form. If a future round needs a
 fresh list, get a person to run the search rather than automating that check.
 
 Prior rounds for comparison: FY2018 had 91 reports, FY2021 had 93.
+
+Update 2026-08-11: Adam re-ran the year+IC search by hand (solving the
+bot-check) and saved the result as `nidb_nimh_search_2026_08_11.html`. It lists
+exactly the same 86 ipids — the Jan 2026 list is current.
