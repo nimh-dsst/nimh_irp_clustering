@@ -1,0 +1,25 @@
+[project]
+name = "nimh-irp-clustering"
+version = "2025.0"
+description = "Analysis of collaborations within the NIMH IRP, based on collaborators reported in investigators' annual reports on intramural.nih.gov"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "pandas>=2.2",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.2",
+    "requests>=2.32",
+    "networkx>=3.3",
+    "seaborn>=0.13",
+    "matplotlib>=3.9",
+    "pillow>=10.3",
+    "openpyxl>=3.1",
+    "jupyterlab>=4.2",
+    "ipykernel>=6.29",
+]
+
+# The FY2018 and FY2021 rounds were run on unpinned Python 3.7 / 3.9 environments that
+# no longer exist. Everything here is pinned in uv.lock so a future round can reproduce
+# a published number instead of guessing at it. See ANALYSIS.md.
+
+[tool.uv]
+package = false
