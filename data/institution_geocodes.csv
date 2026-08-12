@@ -1,0 +1,344 @@
+institution,lat,lon,source
+Addis Ababa University,9.01336,38.74698,nominatim
+Allen Institute,19.17021,72.95341,nominatim
+Allen Institute for Brain Science,47.62510,-122.33908,nominatim
+Alto Neuroscience (United States),37.44159,-122.16938,nominatim
+Ameican Foundation for Suicide Prevention,40.70610,-74.00870,hand:NYC HQ
+American Academy of Pediatrics,38.19107,-84.87523,nominatim
+American Foundation for Suicide Prevention,40.70610,-74.00870,hand:NYC HQ
+American University,38.93777,-77.08946,nominatim
+"American University, Chemistry",33.90066,35.47961,nominatim
+Association for Creatine Deficiencies,33.01980,-117.27920,hand:Carlsbad CA HQ
+"Bar-Ilan University, Azrieli Faculty of Medicine",32.06933,34.84334,nominatim
+"Basque Center on Cognition, Brain and Language",43.29434,-1.98606,nominatim
+Baylor College of Medicine,29.71054,-95.39581,nominatim
+"Baylor College of Medicine, Pediatric Neurology and Developmental Neuroscience",29.71054,-95.39581,nominatim
+"Baylor College of Medicine, Psychiatry",29.71054,-95.39581,nominatim
+Beijing Normal University,39.95976,116.35972,nominatim
+Boston Children's Hospital,42.33717,-71.10568,nominatim
+"Boston Children's Hospital, Dept of Emergency Psychiatry",42.33717,-71.10568,nominatim
+Boys Town National Research Hospital,41.25074,-96.13463,nominatim
+Broad Institute,42.36816,-71.08698,nominatim
+Brown University,41.81864,-71.40880,nominatim
+"Brown University, Computer Science",41.81864,-71.40880,nominatim
+"Brown University, Psychiatry and Human Behavior",41.81864,-71.40880,nominatim
+Burke Medical Research Institute,33.04822,-81.95760,nominatim
+Carnegie Mellon University,40.44392,-79.94283,nominatim
+"Catholic University of America, Department of Psychology",38.93910,-76.99996,nominatim
+Centre for Addiction and Mental Health,43.65550,-79.40440,hand:Toronto
+"Charité - Universitätsmedizin Berlin, Department of Psychiatry and Neurosciences",52.52999,13.34866,nominatim
+Child Mind Institute,40.74200,-73.98450,hand:NYC
+"Child Mind Institute, New York",40.74200,-73.98450,hand:NYC
+Children's Healthcare of Atlanta,34.03688,-84.29262,nominatim
+Children's Hospital of Los Angeles,34.09769,-118.29008,nominatim
+Children's Hospital of Philadelphia,39.94770,-75.19498,nominatim
+Chinese University of Hong Kong,22.41409,114.21002,nominatim
+City University of New York,40.80775,-73.96249,nominatim
+Cleveland Clinic,41.50217,-81.61982,nominatim
+Cold Spring Harbor Laboratory,40.86235,-73.46999,nominatim
+Columbia University,40.80775,-73.96249,nominatim
+Columbia University Medical Center,14.57781,120.98591,nominatim
+"Columbia University Medical Center, Department of Pharmacology",14.57781,120.98591,nominatim
+"Columbia University, Center for Theoretical Neuroscience",40.80775,-73.96249,nominatim
+"Columbia University, Department of Neuroscience",40.80775,-73.96249,nominatim
+Concert Health,36.77951,-76.09297,nominatim
+Cornell University,42.45292,-76.48006,nominatim
+Coventry University,52.40564,-1.49972,nominatim
+"Creighton University Medical Center, Psychology",41.23950,-96.03112,nominatim
+"Dartmouth College, Psychological and Brain Sciences",43.70468,-72.29421,nominatim
+David Geffen School of Medicine at UCLA,34.06640,-118.44410,hand:UCLA Los Angeles
+"Devinci Research Center, De Vinci Research Center",48.89650,2.23230,hand:Paris La Defense
+"Dickinson College, Psychology Department",40.20281,-77.19957,nominatim
+Douglas Mental Health University Institute,45.44255,-73.58572,nominatim
+Duke University,36.00016,-78.94423,nominatim
+Duke University Health System,36.00016,-78.94423,nominatim
+Duke University School of Medicine,36.00016,-78.94423,nominatim
+"Duke University, Biomedical Engineering",36.00016,-78.94423,nominatim
+Durham VA Medical Center,36.16346,-115.17195,nominatim
+East Carolina University,35.63285,-77.48527,nominatim
+Emory University,33.80045,-84.31724,nominatim
+Erasmus MC,51.91093,4.46805,nominatim
+Ethiopian Pediatrics Society,9.01080,38.76130,hand:Addis Ababa
+Flory Institute,-37.80040,144.96180,hand:Florey Institute Melbourne
+Foot and Ankle Specialists of the Mid-Atlantic,39.08400,-77.15280,hand:Rockville MD
+Fordham University,40.86173,-73.88603,nominatim
+Forschungszentrum,50.00910,8.65381,nominatim
+Forschungszentrum Jülich,50.90540,6.41187,nominatim
+Geisinger Health System,41.33100,-75.94950,nominatim
+"George Washington University, Anesthesiology",38.89986,-77.04745,nominatim
+"George Washington University, Psychology",38.89863,-77.04780,nominatim
+Georgetown University,38.90894,-77.07458,nominatim
+"Georgetown University Medical Center, Psychiatry",38.90894,-77.07458,nominatim
+Georgia State University,33.75359,-84.38542,nominatim
+German Center for Neurodegenerative Diseases,50.69970,7.08730,hand:Bonn
+Harvard Medical School,42.33692,-71.10389,nominatim
+Harvard University,42.36574,-71.12221,nominatim
+"Harvard University, Childrens Hospital Department of Neurology",42.36574,-71.12221,nominatim
+"Harvard University, Division of Sleep and Circadian Disorders",42.36574,-71.12221,nominatim
+"Helmholtz Centrum, Heidelberg, Helmholtz-Zentrum",49.99275,8.25867,nominatim
+Hong Kong Polytechnic University,22.30272,114.17804,nominatim
+Howard University,38.92211,-77.01963,nominatim
+"Howard University, Biology",38.92154,-77.01927,nominatim
+Icahn School of Medicine at Mount Sinai,40.78979,-73.95325,nominatim
+"Icahn School of Medicine at Mount Sinai, Department of Psychiatry",40.78979,-73.95325,nominatim
+"Icahn School of Medicine at Mount Sinai, Neuroscience",40.78979,-73.95325,nominatim
+"Icahn School of Medicine at Mount Sinai, Psychiatry",40.78979,-73.95325,nominatim
+Indian Health Service,39.06201,-77.11244,nominatim
+Indiana University Bloomington,39.18024,-86.50935,nominatim
+Inserm,45.74426,4.87653,nominatim
+"Institute for Basic Science, Center for Neuroscience Imaging Research (CNIR)",36.37745,127.38499,nominatim
+"Janelia Research Campus, Ashburn, Virginia",39.07106,-77.46533,nominatim
+"Johns Hopkins Medicine, The Solomon H. Snyder Department of Neuroscience",39.28741,-76.55237,nominatim
+Johns Hopkins University,39.33020,-76.62185,nominatim
+"Johnson & Johnson, Biomarker Signatures and Global Imaging",-33.40321,-70.57830,nominatim
+KU Leuven,50.80571,3.29154,nominatim
+Karolinska Institutet,59.35155,18.03107,nominatim
+"Keio University, School of Medicine",35.55382,139.64141,nominatim
+Kennedy Krieger Institute,39.29987,-76.59328,nominatim
+King's College London,51.50309,-0.09000,nominatim
+Maastricht University,50.84721,5.68595,nominatim
+Macquarie University,-33.77420,151.11271,nominatim
+"Mass General Brigham, Psychiatry",42.39153,-71.07888,nominatim
+Massachusetts General Hospital,42.36286,-71.06875,nominatim
+"Massachusetts General Hospital, Martinos Center",42.36286,-71.06875,nominatim
+"Massachusetts General Hospital, Neurology",42.36286,-71.06875,nominatim
+Massachusetts Institute of Technology,42.35825,-71.09663,nominatim
+"Massachusetts Institute of Technology, McGovern Institute for Brain Research",42.35825,-71.09663,nominatim
+"Massachusetts Institute of Technology, McGovern Institute for brain research",42.35825,-71.09663,nominatim
+Max Planck Florida Institute for Neuroscience,26.88383,-80.11485,nominatim
+Max Planck Institute for Human Cognitive and Brain Sciences,51.31990,12.39660,hand:Leipzig
+Mayo Clinic,-26.15056,27.91973,nominatim
+McGill University,45.43184,-73.94529,nominatim
+"McMaster University, Psychiatry and Behavioral Neuroscience",43.26394,-79.91783,nominatim
+MedStar Georgetown University Hospital,38.91122,-77.07533,nominatim
+MedStar Harbor Hospital,39.25184,-76.61403,nominatim
+MedStar Washington Hospital Center,38.92875,-77.01477,nominatim
+Medical University of Vienna,48.22010,16.34770,hand:Vienna
+Monash University,-37.78397,144.95867,nominatim
+Montreal Clinical Research Institute,45.51220,-73.57930,hand:Montreal IRCM
+Mount Sinai Medical Center,25.81338,-80.14087,nominatim
+"Munich, Germany",48.13711,11.57538,nominatim
+Nanjing Normal University,32.05506,118.76210,nominatim
+"National Autonomous University of Mexico, ENES Juriquilla",19.32160,-99.18493,nominatim
+"National Institute of Advanced Industrial Science and Technology, Neuroscience Research Institute",36.05318,140.11711,nominatim
+"National Institute of Advanced Industrial Science and Technology, Neurotechnology Group",36.05318,140.11711,nominatim
+"National Institute of Radiological Sciences, Molecular Neuroimaging",35.63290,140.10340,hand:Chiba Japan
+National Taiwan University,25.01682,121.53846,nominatim
+"National and Kapodistrian University of Athens, First Department of Psychiatry",37.97004,23.76524,nominatim
+Nationwide Children's Hospital,39.95206,-82.97901,nominatim
+"Nationwide Children's Hospital, Research Institute",39.95206,-82.97901,nominatim
+Nepal Paediatric Society,27.70170,85.32060,hand:Kathmandu
+Nepal Paediatric Society (NEPAS),27.70170,85.32060,hand:Kathmandu
+New York University,40.72921,-73.99501,nominatim
+"New York University Langone Medical Center, Departments of Pediatrics, Environmental Medicine",40.74230,-73.97357,nominatim
+"New York University, Center for Neural Science",40.72916,-73.99443,nominatim
+"New York University, Psychology",40.72897,-73.99447,nominatim
+"New York University, Yale PET Center",40.72921,-73.99501,nominatim
+"Newcastle University, United Kingdom",54.98018,-1.61468,nominatim
+Northwell Health,40.72630,-73.44131,nominatim
+"Northwestern Health Sciences University, Medical Social Sciences",44.85044,-93.31184,nominatim
+Northwestern University,42.05572,-87.67529,nominatim
+"Northwestern University Feinberg School of Medicine, Feinberg School of Medicine",41.89611,-87.61724,nominatim
+Oklahoma State University Center for Health Sciences,36.13862,-96.00510,nominatim
+Oklahoma State University Medical Center,36.14664,-95.99959,nominatim
+Oregon Health & Science University,45.49819,-122.68650,nominatim
+Osaka University,34.51120,135.63145,nominatim
+Oslo University Hospital,59.93110,10.71360,hand:Oslo
+Oxford Academic Health Science Network,51.75200,-1.25770,hand:Oxford UK
+"Oxford Centre for Computational Neuroscience, Physiology",51.75200,-1.25770,hand:Oxford UK
+Penn State Health,40.26059,-77.03933,nominatim
+Pennsylvania State University,40.81290,-77.87106,nominatim
+"Philipps University of Marburg, Dept. of Anatomy",50.81000,8.77400,hand:Marburg
+"Philipps University of Marburg, Institute of Anatomy and Cell Biology",50.81000,8.77400,hand:Marburg
+"Physikalisch-Technische Bundesanstalt, Biosignals",52.29650,10.46569,nominatim
+Princeton University,40.33868,-74.65837,nominatim
+Purdue University System,40.43003,-86.92642,nominatim
+Péterfy,47.50253,19.07930,nominatim
+QIMR Berghofer Medical Research Institute,-27.44941,153.02800,nominatim
+RAND Corporation,34.00957,-118.49071,nominatim
+Radboud University Nijmegen Medical Centre,51.82152,5.86343,nominatim
+Rady Children's Hospital-San Diego,32.79823,-117.15211,nominatim
+"Reichman University, Psychology",32.17625,34.83709,nominatim
+Rhode Island Hospital,41.81107,-71.40900,nominatim
+Rijnstate Hospital,52.00037,5.90971,nominatim
+Rush University Medical Center,41.87464,-87.66913,nominatim
+"San Diego State University, Psychology",32.77615,-117.07330,nominatim
+San Jose State University,37.33519,-121.88123,nominatim
+Soterix Medical (United States),40.75610,-74.00270,hand:NYC
+South Carolina Quality through Technology and Innovation in Pediatrics,34.00070,-81.03480,hand:Columbia SC
+Southwestern Medical Center,34.59276,-98.46308,nominatim
+Stanford Medicine,37.43204,-122.17847,nominatim
+Stanford University,37.43131,-122.16937,nominatim
+Stanford University School of Medicine,37.43131,-122.16937,nominatim
+"Stanford University School of Medicine, Department of Neurosurgery",37.43131,-122.16937,nominatim
+"Stanford University, Dept. of Psychology",37.43131,-122.16937,nominatim
+"Stanford University, PhD",37.43131,-122.16937,nominatim
+"Stanford University, Psychology",37.43131,-122.16937,nominatim
+Stony Brook University,40.90908,-73.12055,nominatim
+Taisho Pharmaceutical (Japan),35.72950,139.71090,hand:Tokyo
+"Technical University of Berlin, Machine Learning",52.51250,13.32690,hand:Berlin
+"Tel Aviv University, Life Sciences Faculty, Department of Neurobiolgoy",32.11236,34.80501,nominatim
+Temple University,39.98119,-75.15628,nominatim
+Tetra Therapeutics (United States),42.96340,-85.66810,hand:Grand Rapids MI
+"The Chinese University of Hong Kong, Mathematics",22.42018,114.20791,nominatim
+The University of Texas Southwestern Medical Center,32.81204,-96.84172,nominatim
+The University of Texas at Austin,30.28490,-97.73410,hand:Austin TX
+"Tri-Instional Center for Translational Research in Neuroimaging and Data Science (TReNDS), Georgia State, Georgia Tech, Emory",33.74900,-84.38800,hand:Atlanta
+"Tri-institutional Center for Translational Research in Neuroimaging and Data Science (TReNDS, Georgia State, Georgia Tech, Emory",33.74900,-84.38800,hand:Atlanta
+"Trinity College, Psychology",52.20689,0.11511,nominatim
+Tufts University,42.40645,-71.11808,nominatim
+"Tufts University, School of Medicine , School of Medicine",42.40645,-71.11808,nominatim
+"UC Davis School of Medicine, School of Medicine",38.55298,-121.45273,nominatim
+UCSD,32.87924,-117.23112,nominatim
+UCSF Benioff Children's Hospital,37.76477,-122.38966,nominatim
+"UT Austin, Center for Theoretical and Computational Neuroscience",30.28515,-97.73394,nominatim
+UT Houston,37.62137,-112.73105,nominatim
+Uniformed Services University of the Health Sciences,39.00187,-77.08637,nominatim
+Universidade de São Paulo,-23.56522,-46.71258,nominatim
+University College London,51.52420,-0.13300,nominatim
+"University College London, Division of Psychiatry",51.52420,-0.13300,nominatim
+"University College London, Research Department of Clinical, Educational and Health Psychology",51.52420,-0.13300,nominatim
+"University College London, Sainsbury Wellcome Centre",51.52420,-0.13300,nominatim
+University Hospital of Zurich,47.37690,8.55000,hand:Zurich
+University of Amsterdam,52.36813,4.88980,nominatim
+University of Barcelona,41.38686,2.16348,nominatim
+University of Bergen,60.38093,5.33130,nominatim
+University of British Columbia,49.25789,-123.24298,nominatim
+University of Buenos Aires,-38.93949,-68.05034,nominatim
+"University of Buenos Aires, Inst Invest Genet & Biol Mol",-38.93949,-68.05034,nominatim
+"University of Calgary, Psychology",51.07505,-114.13881,nominatim
+University of California - San Diego School of Medicine,32.87502,-117.23383,nominatim
+University of California Davis Medical Center,38.55269,-121.45179,nominatim
+University of California San Diego Medical Center,32.87781,-117.22633,nominatim
+"University of California Santa Barbara, Psychological and Brain Sciences",34.41460,-119.84581,nominatim
+"University of California, Berkeley",33.64877,-117.83650,nominatim
+"University of California, Davis",38.53379,-121.79075,nominatim
+"University of California, Los Angeles",34.01983,-118.27806,nominatim
+"University of California, Los Angeles, Department of Neurology",33.98204,-117.33222,nominatim
+"University of California, Los Angeles, Neurology, Human Genetics, Psychiatry",33.98204,-117.33222,nominatim
+"University of California, Los Angeles, Psychiatry and Behavioral Sciences",33.98204,-117.33222,nominatim
+"University of California, San Diego",32.87924,-117.23112,nominatim
+"University of California, San Diego, Psychology",33.98204,-117.33222,nominatim
+"University of California, San Francisco",37.76273,-122.45826,nominatim
+"University of California, San Francisco, Department of Neurology",33.98204,-117.33222,nominatim
+"University of California, San Francisco, Neurology",33.98204,-117.33222,nominatim
+University of Cambridge,52.19550,0.13024,nominatim
+University of Cape Town,-33.95676,18.46758,nominatim
+University of Catania,37.50790,15.08300,hand:Catania
+University of Chicago,41.78812,-87.60477,nominatim
+University of Cincinnati,39.13189,-84.51578,nominatim
+"University of Colorado Anschutz Medical Campus, Anesthesiology",39.74465,-104.83866,nominatim
+"University of Colorado Boulder, Mechanical Engineering",40.00701,-105.26644,nominatim
+University of Colorado Denver,39.74607,-105.00177,nominatim
+"University of Colorado Denver, Psychiatry",39.74607,-105.00177,nominatim
+University of Copenhagen,55.68015,12.57233,nominatim
+"University of Copenhagen, Neurobiology Research Unit",55.68015,12.57233,nominatim
+University of Delaware,39.68028,-75.75310,nominatim
+University of East Anglia,52.62106,1.23562,nominatim
+University of Edinburgh,55.94408,-3.18837,nominatim
+University of Florida,29.64119,-82.35623,nominatim
+University of Freiburg,48.00702,7.83732,nominatim
+University of Ghent,51.00785,3.71088,nominatim
+University of Glasgow,1.30769,103.77804,nominatim
+University of Göttingen,51.54130,9.91580,hand:Gottingen
+University of Helsinki,60.22672,25.01767,nominatim
+University of Illinois Urbana-Champaign,40.07615,-88.22331,nominatim
+University of Illinois at Chicago,41.86757,-87.65242,nominatim
+University of Jyvaskyla,62.24162,25.75924,nominatim
+University of Lausanne,46.52257,6.58095,nominatim
+University of Louisville,38.21332,-85.75771,nominatim
+University of Maryland Medical Center,39.28827,-76.62439,nominatim
+"University of Maryland, Baltimore",39.25238,-76.70892,nominatim
+"University of Maryland, Baltimore County, Biological Sciences",48.09898,11.58235,nominatim
+"University of Maryland, Baltimore, School of Medicine",48.09898,11.58235,nominatim
+"University of Maryland, College Park",38.99041,-76.94386,nominatim
+"University of Maryland, College Park, Department of Physics",48.09898,11.58235,nominatim
+"University of Massachusets, Amhurst",42.38680,-72.53010,hand:Amherst MA
+"University of Massachusetts Chan Medical School, Department of Emergency Medicine",42.26260,-71.80230,hand:Worcester MA
+University of Michigan,42.29421,-83.71004,nominatim
+University of Michigan–Ann Arbor,42.29421,-83.71004,nominatim
+University of Minnesota,44.98634,-93.17945,nominatim
+"University of Minnesota, Department of Radiology",44.98634,-93.17945,nominatim
+"University of Nevada, Las Vegas",36.17612,-115.15696,nominatim
+University of New Mexico,35.08663,-106.62021,nominatim
+"University of North Carolina System, Department of Psychiatry and Pharmacology",32.87240,-117.21211,nominatim
+University of North Carolina at Chapel Hill,35.90504,-79.04775,nominatim
+"University of North Carolina at Chapel Hill, Department of Psychiatry",35.90504,-79.04775,nominatim
+University of Nottingham,52.93874,-1.20030,nominatim
+"University of Nottingham, Physics",52.93874,-1.20030,nominatim
+University of Oslo,59.94142,10.72277,nominatim
+"University of Ottawa, School of Electrical Engineering and Computer Science",45.42253,-75.68339,nominatim
+University of Oxford,33.65054,-117.82705,nominatim
+"University of Oxford, Nuffield Dept. of Population Health",33.65054,-117.82705,nominatim
+University of Parma,44.80150,10.32800,hand:Parma
+University of Pennsylvania,39.95221,-75.19557,nominatim
+University of Pennsylvania Health System,39.95221,-75.19557,nominatim
+"University of Pennsylvania Health System, Psychiatry",39.95221,-75.19557,nominatim
+"University of Pennsylvania School of Medicine, School of Medicine",39.95221,-75.19557,nominatim
+"University of Pennsylvania, Department of Biostatistics",39.95221,-75.19557,nominatim
+"University of Pennsylvania, School of Medicine",39.95221,-75.19557,nominatim
+University of Pittsburgh,40.44415,-79.96246,nominatim
+University of Pittsburgh Medical Center,40.44415,-79.96246,nominatim
+University of Pittsburgh School of Medicine,40.44415,-79.96246,nominatim
+"University of Pittsburgh, Department of Neurobiology",40.44415,-79.96246,nominatim
+"University of Pittsburgh, Department of Psychiatry",40.44415,-79.96246,nominatim
+University of Queensland,-27.49814,153.01115,nominatim
+University of Rochester,18.40207,-66.06159,nominatim
+"University of Rochester, Department of Ophthalmology",18.40207,-66.06159,nominatim
+University of San Francisco,37.77936,-122.45145,nominatim
+University of Science and Technology of China,31.83907,117.26421,nominatim
+University of South Carolina,33.99288,-81.02687,nominatim
+University of Sussex,50.86744,-0.08773,nominatim
+"University of Sydney, Brain and Mind Centre",32.87253,-117.20202,nominatim
+"University of Texas at Dallas, Center for Vital Longevity",32.98759,-96.74978,nominatim
+University of Toronto,43.66347,-79.39682,nominatim
+"University of Toronto, CAMPH",43.66347,-79.39682,nominatim
+University of Turin,45.05116,7.68115,nominatim
+University of Utah,40.76281,-111.83687,nominatim
+University of Utah Health Care,37.69996,-113.06882,nominatim
+"University of Valparaíso, Centro de Neurociencia",41.46757,-87.04270,nominatim
+University of Vermont,44.47374,-73.19415,nominatim
+"University of Vermont, Department of Electrical and Biomedical Engineering",44.47374,-73.19415,nominatim
+University of Victoria,48.46206,-123.31142,nominatim
+"University of Vienna, Psychiatry",48.21313,16.36069,nominatim
+University of Virginia,38.04106,-78.50551,nominatim
+"University of Virginia, Department of Psychology",38.04106,-78.50551,nominatim
+University of Washington,47.65543,-122.30017,nominatim
+"University of Washington, Psychiatry",47.65543,-122.30017,nominatim
+University of Western Australia,-31.95065,115.79788,nominatim
+University of Western Ontario,43.00542,-81.27480,nominatim
+University of Wyoming,41.31499,-105.56432,nominatim
+University of Würzburg,49.79130,9.95340,hand:Wurzburg
+"Universität Innsbruck, Department of Pharmacology",47.26329,11.38445,nominatim
+Université Paris Cité,48.85147,2.34109,nominatim
+Université de Montréal,45.52269,-73.61983,nominatim
+"Universiy of Washington, Seattle",47.65530,-122.30350,hand:Seattle
+VU University Medical Center,52.33463,4.85991,nominatim
+Vanderbilt University,36.14380,-86.80282,nominatim
+"Vanderbilt University, Psychology",36.14380,-86.80282,nominatim
+Virdx,,,nominatim_miss
+Virginia Commonwealth University,37.54612,-77.45406,nominatim
+"Vrije Universiteit Brussel, Department of Psychology",50.82255,4.39550,nominatim
+Walter Reed Army Institute of Research,39.00572,-77.05290,nominatim
+Warren Alpert Medical School of Brown University,41.82400,-71.41280,hand:Providence RI
+Washington State University,46.73377,-117.14980,nominatim
+Washington University in St. Louis,38.64724,-90.30840,nominatim
+Washington University in St. Louis School of Medicine,38.64724,-90.30840,nominatim
+"Washington University in St. Louis School of Medicine, Psychiatry",38.64724,-90.30840,nominatim
+Washington University of St. Louis,38.64724,-90.30840,nominatim
+Weill Cornell Medicine,40.76701,-73.95470,nominatim
+"Weill Cornell Medicine, Department of Psychiatry",40.76701,-73.95470,nominatim
+"Weizmann Institute of Science, Neuroscience",31.90785,34.81334,nominatim
+West Virginia University,39.63484,-79.95421,nominatim
+West Virginia University Hospitals,39.65446,-79.95907,nominatim
+Worcester Polytechnic Institute,42.27432,-71.80846,nominatim
+"Yale Child Study Center, Yale Child Study Center",41.30400,-72.92900,hand:New Haven CT
+"Yale University, Child Study Center",41.25713,-72.98967,nominatim
+"Yale University, Dept. of Psychology",41.25713,-72.98967,nominatim
+"Yale University, PET Center",41.25713,-72.98967,nominatim
+"Yale University, Psychiatry",41.25713,-72.98967,nominatim
+"Yale University, School of Medicine",41.25713,-72.98967,nominatim
+"York University, Psychology",40.72897,-73.99447,nominatim
+Zucker Hillside Hospital,40.75107,-73.71093,nominatim
+universita' di milano,45.48001,9.22824,nominatim
+university oregon,44.04442,-123.07176,nominatim
