@@ -15,6 +15,10 @@ Round 3 also added a trend slide (the three rounds side by side) and, on the
 external slide, the count of PIs reporting external collaborations (47 of 54 in
 FY2025) — a number Jenny asked for in the FY2021 round.
 
+Round 3 then grew into a unified deck for NIMH leadership (Sept 2026) combining
+this analysis with an NIH Library bibliometric report and a data-sharing trend
+— see "Round 3 extensions" at the end of this file.
+
 The three scopes come from three headings on each annual report, and map onto
 the `scope` column of the collaboration table as `NIMH`, `NIH`, and `EM`.
 
@@ -127,3 +131,49 @@ in the other direction, since not every co-author is a meaningful collaborator.
 Worth reporting both, which is why round 3 keeps FY2021 and FY2025 on identical
 code — collaborator lists that are byte-identical across four years are
 detectable, and named NIMH collaborators can be checked against the live roster.
+
+## Round 3 extensions (Aug 2026): the unified leadership deck
+
+The FY2025 round expanded into an 11-slide deck ("2026 NIMH IRP — Collaboration
+Impact OpenScience") combining three streams. Slides 1–4 come from this repo;
+the rest draw on the sources below. The synthesis memo
+(`docs/synthesis_collab_bibliometrics_FY2025.md`) holds the full comparison.
+
+**Bibliometrics** — "A bibliometric analysis of NIMH IRP, 2021–2025" by Joelle
+Mornini (NIH Library, Aug 2026): Web of Science author search; 1,187
+publications, H-index 68, median RCR 1.56, 117 policy documents and 32 clinical
+guidelines citing IRP work. Key cross-check: ~15 of its top-20 co-publication
+institutions also appear in PI-reported collaborations, while its author search
+found 90 FY2025-window publications the annual reports never listed (PIs
+under-report). Deck slides 6–8 use charts cropped from the report PDF.
+
+**FY2025 publication corpus** — `nimh_irp_fy2025_publications.ris` (229 DOIs,
+214 with PMIDs): union of annual-report publications (Josh Lawrimore's
+`nimh-dsst/irp_scraper` browser scrape + this repo's scrape cache, which caught
+7 IDs added to NIDB after his January run) and the library's BMJ policy subset
+(3 publications the reports missed). Built for the PaperPile → publisher-PDF →
+OddPub pipeline.
+
+**Data sharing (OddPub)** — the production pipeline is PDF → minerU (GPU,
+markdown) → OddPub v7.2.3 on markdown, per-PMID results in
+`datalad-osm/oddpubV7minerU_v2/` on Biowulf; runner scripts in
+`nimh-dsst/dsst-etl`, `osm-pipeline`, and `minerU_osm`. Do NOT run oddpub's
+pdftools path on the older intramural PDFs — pathological files hang it past
+its internal timeout. NIMH trend 2019→2025 on uniform methodology: papers with
+data-sharing statements 6.9% → 31.3%; PIs with ≥1 open-data paper 27.5% →
+79.1%. Version check: v7.1 vs v7.2.3 agree on 95.3% of 1,048 shared
+publications.
+
+**Manual validation** — "Manually labelled pubs from NIMH IRP 2023.xlsx"
+(224 pubs hand-checked for the BSC, mostly report-years 2022–23): true
+open-data rate 40.0% for 2023 (150/209 of that trend year checked). Against
+this gold standard OddPub v7.2.3 shows 94% specificity but only 57% sensitivity
+— the automated trend understates true sharing, so the deck's papers figure
+carries a manually-verified marker at 2023 and the caveat runs in the
+leadership deck's methods slide. Note the 2025 point used publisher PDFs;
+earlier years were partly author manuscripts, which under-carry
+data-availability statements.
+
+**Deferred** — the all-IC 2025 data-sharing update: only 22% of the 5,261
+all-IC FY2025 PMIDs had results as of Aug 2026 (~4,100 publisher PDFs to
+source, NCI the largest gap).
