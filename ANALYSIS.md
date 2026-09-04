@@ -177,3 +177,15 @@ data-availability statements.
 **Deferred** — the all-IC 2025 data-sharing update: only 22% of the 5,261
 all-IC FY2025 PMIDs had results as of Aug 2026 (~4,100 publisher PDFs to
 source, NCI the largest gap).
+
+**Red-team review (Sept 2026)** — before the deck went to OSPPC, an independent
+agent audited every claim against the sources; prompt and findings are in
+`docs/redteam/`. Every computed number reproduced. What failed were
+unverified specifics added for color (a named policy citer that does not
+appear in the BMJ export; "the same network hubs" — they differ; "identical
+code on FY2018/FY2021 archives" — the trend hard-codes published totals) and
+a validation marker that paired one publication set's manual rate with
+another's automated rate. All fixed in the deck; `data_sharing_figures.py`
+and `translation_triangle.py` now reproduce every number on their slides
+from committed inputs. Lesson recorded: every named example on a slide must
+trace to a row someone actually looked at.
