@@ -1,0 +1,1356 @@
+PMID,is_open_data,is_open_code,open_data_category,source
+29204929,False,False,,v2store
+29310911,False,False,,v2store
+29440410,False,False,,v2store
+30035000,False,False,,v2store
+30184133,False,False,,v2store
+30551012,False,False,,v2store
+30556224,False,False,,v2store
+31179620,False,False,unknown/misspecified source,v2store
+31285438,False,True,"supplement, unknown/misspecified source",v2store
+29243079,False,False,,v2store
+29625429,False,False,,v2store
+29777827,False,False,,v2store
+30004611,False,False,upon request,v2store
+29276055,True,True,"field-specific repository, upon request, github, unknown/misspecified source",v2store
+29408376,False,True,github,v2store
+29527565,False,False,,v2store
+29688876,False,False,,v2store
+29853553,True,False,"field-specific repository, re-use, upon request",v2store
+29860082,False,True,re-use,v2store
+29946024,False,False,"supplement, re-use",v2store
+30546968,False,False,,v2store
+30396833,False,False,,v2store
+30579583,False,False,,v2store
+30767900,False,False,,v2store
+30855519,False,False,,v2store
+30921255,False,False,,v2store
+31187454,False,False,,v2store
+31356000,False,False,,v2store
+29581423,False,False,,v2store
+30033547,False,False,supplement,v2store
+30038276,True,True,"field-specific repository, re-use, unknown/misspecified source",v2store
+29615854,False,False,,v2store
+30311907,False,False,"re-use, unknown/misspecified source",v2store
+28289281,False,False,,v2store
+28495493,False,False,,v2store
+29439750,False,False,,v2store
+29560376,False,False,,v2store
+29755401,False,False,,v2store
+30545910,False,False,,v2store
+30644326,False,False,,v2store
+30826584,False,False,,v2store
+31088914,False,False,,v2store
+31184751,False,False,,v2store
+28461699,False,False,,v2store
+29448238,False,False,,v2store
+29501990,False,False,,v2store
+29580569,False,False,,v2store
+29668918,False,False,,v2store
+29971587,False,False,upon request,v2store
+30094160,False,False,,v2store
+30107350,False,False,,v2store
+30116859,False,False,,v2store
+30122538,False,False,,v2store
+30410340,False,False,,v2store
+30552317,False,False,,v2store
+30653192,False,False,,v2store
+29343731,False,False,"re-use, upon request",v2store
+29664322,False,False,,v2store
+29771362,False,False,,v2store
+30177709,False,False,upon request,v2store
+30504281,False,False,,v2store
+30590463,False,True,,v2store
+30602785,True,True,"upon request, general-purpose repository",v2store
+30630080,False,False,,v2store
+31054350,True,False,general-purpose repository,v2store
+31226622,False,False,,v2store
+31305238,False,False,unknown/misspecified source,v2store
+28392491,False,False,re-use,v2store
+29382815,False,False,,v2store
+29621615,False,False,re-use,v2store
+29637654,False,False,,v2store
+30005181,False,False,re-use,v2store
+30289497,False,False,,v2store
+30964612,False,False,,v2store
+29174765,False,False,,v2store
+29218829,False,True,,v2store
+29487126,False,False,,v2store
+29753993,False,False,,v2store
+29870821,False,False,,v2store
+30351274,False,False,,v2store
+30385320,False,False,,v2store
+30426323,False,False,,v2store
+30496885,False,False,,v2store
+30599209,False,False,,v2store
+30613993,False,False,,v2store
+30616705,False,False,,v2store
+30654645,False,False,,v2store
+30746034,False,False,upon request,v2store
+30768398,False,False,,v2store
+30775788,False,False,,v2store
+30865236,False,False,"re-use, unknown/misspecified source",v2store
+30921634,False,False,,v2store
+31028560,False,False,,v2store
+31100431,False,False,,v2store
+31140687,False,False,upon request,v2store
+31256611,False,False,unknown/misspecified source,v2store
+31292066,False,False,,v2store
+29208569,True,False,"field-specific repository, upon request",v2store
+29298912,False,False,,v2store
+29374172,False,False,"upon request, unknown/misspecified source",v2store
+29398365,False,False,,v2store
+29437980,False,False,,v2store
+30323289,False,False,upon request,v2store
+30773369,False,False,upon request,v2store
+31110242,False,False,upon request,v2store
+31229584,False,False,,v2store
+30194797,False,False,,v2store
+30012600,False,False,,v2store
+30291973,False,False,,v2store
+30910790,False,False,,v2store
+31071345,False,True,upon request,v2store
+29248581,False,False,upon request,v2store
+29904359,False,False,"re-use, upon request",v2store
+29956436,False,False,,v2store
+30315151,False,False,re-use,v2store
+30318722,False,False,,v2store
+31355865,False,False,,v2store
+31461679,False,True,"re-use, unknown/misspecified source",v2store
+30865372,False,False,,v2store
+31177092,False,False,,v2store
+29453460,True,False,field-specific repository,v2store
+29485996,False,False,upon request,v2store
+30271994,False,False,upon request,v2store
+30622165,True,False,field-specific repository,v2store
+31009948,False,False,,v2store
+28940581,False,False,,v2store
+29396553,False,False,upon request,v2store
+30050047,False,False,,v2store
+30467687,False,False,,v2store
+30995237,False,False,,v2store
+28369611,False,False,,v2store
+28416813,False,False,,v2store
+29415119,False,False,re-use,v2store
+29496125,False,False,,v2store
+29614955,False,True,,v2store
+29634738,True,False,"field-specific repository, upon request",v2store
+29844566,False,False,"supplement, re-use, upon request",v2store
+29942086,True,False,"field-specific repository, upon request",v2store
+30606727,False,False,,v2store
+30540352,False,False,,v2store
+30561500,False,False,,v2store
+30768408,True,False,field-specific repository,v2store
+30916728,False,False,,v2store
+31078786,False,False,,v2store
+31242010,False,False,,v2store
+29479060,False,False,,v2store
+28807647,False,False,,v2store
+29574781,False,False,re-use,v2store
+30269990,True,False,"field-specific repository, re-use, upon request",v2store
+30458511,False,False,,v2store
+31160680,False,False,,v2store
+29682603,False,True,,v2store
+28735371,False,False,,v2store
+29799931,False,False,,v2store
+30161277,False,False,,v2store
+31297086,False,False,,v2store
+29496128,False,False,,v2store
+30242573,False,False,,v2store
+30319935,False,False,,v2store
+30428909,False,True,,v2store
+30522738,False,False,,v2store
+30050134,True,False,"field-specific repository, unknown/misspecified source",v2store
+31085604,False,False,,v2store
+29389051,False,False,,v2store
+29795116,True,False,field-specific repository,v2store
+29890330,False,False,,v2store
+30576850,False,True,,v2store
+30793073,False,False,unknown/misspecified source,v2store
+31015027,False,False,,v2store
+31106273,False,False,upon request,v2store
+29322164,False,False,,v2store
+30184299,False,False,,v2store
+29063448,False,False,,v2store
+29100838,False,False,upon request,v2store
+29218892,False,False,,v2store
+29246748,False,False,,v2store
+29382711,False,False,,v2store
+29396415,False,False,upon request,v2store
+30052318,False,False,,v2store
+30336704,False,False,,v2store
+30617478,False,False,,v2store
+30851221,False,False,supplement,v2store
+31115252,False,False,,v2store
+29749279,False,False,,v2store
+29777199,False,False,,v2store
+29959215,False,False,,v2store
+30030837,False,False,,v2store
+30121138,False,False,,v2store
+30213846,False,False,,v2store
+30360553,False,False,,v2store
+30400142,False,False,,v2store
+30811975,False,False,,v2store
+30173913,False,False,upon request,v2store
+30240620,False,False,,v2store
+30309916,False,False,,v2store
+31255486,True,False,"field-specific repository, supplement, re-use, upon request",v2store
+31333190,False,False,unknown/misspecified source,v2store
+28541649,False,False,,v2store
+28742292,False,False,,v2store
+29195125,False,False,,v2store
+29300001,False,False,,v2store
+29921715,False,False,,v2store
+30124357,False,False,unknown/misspecified source,v2store
+30308570,False,False,upon request,v2store
+30546042,False,True,,v2store
+30591715,False,False,,v2store
+29233751,False,False,,v2store
+28322082,False,False,,v2store
+29232493,False,False,,v2store
+29331022,False,False,,v2store
+29423765,False,False,,v2store
+29438216,False,False,,v2store
+29531863,False,False,,v2store
+29536500,False,False,,v2store
+29624156,False,False,,v2store
+29678105,False,False,,v2store
+29792035,False,False,,v2store
+30424836,False,False,,v2store
+30975998,True,True,"general-purpose repository, github, unknown/misspecified source",v2store
+31749693,False,False,,v2store
+30610842,False,False,re-use,v2store
+30698656,False,False,unknown/misspecified source,v2store
+31024276,True,False,field-specific repository,v2store
+31036762,False,False,,v2store
+31344484,False,False,re-use,v2store
+31629827,False,False,upon request,v2store
+30761601,False,False,,v2store
+30826253,False,False,,v2store
+31030316,False,False,,v2store
+31675949,False,False,,v2store
+31928949,False,False,,v2store
+31995812,False,False,,v2store
+32252062,False,False,,v2store
+32416543,False,False,,v2store
+32655423,False,False,upon request,v2store
+29667523,False,False,,v2store
+30606271,False,False,,v2store
+30804326,False,False,unknown/misspecified source,v2store
+30834985,False,False,,v2store
+30908655,False,False,"upon request, unknown/misspecified source",v2store
+31128268,False,False,,v2store
+31324591,False,False,,v2store
+31572227,False,False,,v2store
+32138938,False,False,upon request,v2store
+32167803,False,False,,v2store
+32663842,False,False,,v2store
+32677239,False,False,,v2store
+30715232,False,False,re-use,v2store
+30833512,False,False,,v2store
+31004051,True,False,"general-purpose repository, github",v2store
+33074143,False,False,"upon request, unknown/misspecified source",v2store
+32980206,False,False,,v2store
+31657503,False,False,,v2store
+32048419,False,False,upon request,v2store
+32050889,False,False,unknown/misspecified source,v2store
+32051244,False,False,,v2store
+32243781,False,False,"re-use, upon request",v2store
+32406614,False,False,,v2store
+31551426,True,True,field-specific repository,v2store
+30963114,False,False,,v2store
+31363063,False,False,upon request,v2store
+31501438,False,False,upon request,v2store
+32286225,False,False,,v2store
+32408174,False,False,upon request,v2store
+29703948,False,False,upon request,v2store
+30883292,False,False,upon request,v2store
+31166811,False,False,,v2store
+31196672,False,False,upon request,v2store
+31941667,False,False,,v2store
+32060169,False,False,,v2store
+32315603,False,False,upon request,v2store
+32330126,False,True,unknown/misspecified source,v2store
+29487402,False,False,upon request,v2store
+30312839,False,False,,v2store
+30867285,False,False,supplement,v2store
+31737973,False,False,unknown/misspecified source,v2store
+32056935,False,False,,v2store
+32236521,False,False,upon request,v2store
+32401872,False,False,,v2store
+32677051,False,False,,v2store
+32746445,False,False,,v2store
+32836087,False,False,,v2store
+30654445,False,False,,v2store
+30635922,False,False,,v2store
+31517023,False,False,,v2store
+31613926,True,False,"general-purpose repository, supplement",v2store
+31983637,True,False,"general-purpose repository, upon request",v2store
+32601459,True,True,"upon request, field-specific repository, unknown/misspecified source",v2store
+30032703,False,False,upon request,v2store
+31738835,False,False,"upon request, unknown/misspecified source",v2store
+31883966,False,False,,v2store
+31920733,False,False,,v2store
+32066739,False,False,,v2store
+32180239,False,False,,v2store
+28820619,False,False,,v2store
+30328111,False,False,,v2store
+30408271,False,False,,v2store
+30460424,False,False,,v2store
+30698127,False,False,,v2store
+30708402,False,False,,v2store
+30779145,False,False,,v2store
+30877049,False,False,upon request,v2store
+30908085,False,False,,v2store
+30919787,False,False,re-use,v2store
+30935991,False,False,,v2store
+30968800,False,False,,v2store
+31064595,False,False,,v2store
+31128266,False,False,,v2store
+31230463,True,False,field-specific repository,v2store
+31376729,False,False,,v2store
+31449835,False,False,,v2store
+31461560,False,False,,v2store
+31656217,False,False,,v2store
+31734549,False,False,,v2store
+31853719,False,False,,v2store
+32173623,False,False,,v2store
+32312813,True,False,general-purpose repository,v2store
+32369878,True,False,field-specific repository,v2store
+32500960,True,False,field-specific repository,v2store
+32682075,False,False,,v2store
+31036814,False,False,"upon request, unknown/misspecified source",v2store
+31932765,False,True,unknown/misspecified source,v2store
+32253509,False,False,re-use,v2store
+32498743,False,False,,v2store
+31267171,False,False,upon request,v2store
+31551721,False,False,upon request,v2store
+31712632,False,False,,v2store
+32530910,False,False,supplement,v2store
+30994196,True,False,"field-specific repository, supplement",v2store
+31330239,False,False,supplement,v2store
+31476764,False,True,,v2store
+31883419,False,False,upon request,v2store
+32138933,False,False,,v2store
+30135510,False,True,,v2store
+30537345,False,True,unknown/misspecified source,v2store
+31043756,True,True,"field-specific repository, supplement, upon request, unknown/misspecified source",v2store
+31527585,False,False,,v2store
+31712721,False,True,re-use,v2store
+32203155,False,False,,v2store
+32302596,False,False,,v2store
+31419520,False,False,,v2store
+32161361,False,False,,v2store
+31883529,True,False,"field-specific repository, supplement",v2store
+32361510,False,False,,v2store
+32521478,False,False,,v2store
+32618104,False,False,,v2store
+30287883,False,False,,v2store
+30535067,False,False,,v2store
+30649180,True,False,"field-specific repository, upon request, unknown/misspecified source",v2store
+30664768,True,True,"field-specific repository, re-use, upon request",v2store
+30668668,False,False,,v2store
+30859244,False,False,,v2store
+31374203,False,False,"supplement, re-use",v2store
+31687737,True,False,field-specific repository,v2store
+31348850,False,True,re-use,v2store
+31538137,False,False,"re-use, unknown/misspecified source",v2store
+31685441,False,False,,v2store
+31783247,False,False,,v2store
+32024557,False,False,re-use,v2store
+32275324,False,False,,v2store
+32456610,False,False,upon request,v2store
+32487323,False,False,,v2store
+32639562,False,False,,v2store
+30949017,False,False,,v2store
+31866806,False,False,,v2store
+31264693,False,False,,v2store
+31645593,False,False,,v2store
+31932767,False,False,upon request,v2store
+32404998,False,False,re-use,v2store
+32598278,False,False,,v2store
+32941457,False,False,,v2store
+30858170,True,False,field-specific repository,v2store
+31042568,True,False,field-specific repository,v2store
+31060595,False,False,upon request,v2store
+31246042,False,False,,v2store
+31573729,False,False,,v2store
+31872047,False,False,,v2store
+32284396,False,False,,v2store
+31373756,False,False,,v2store
+31391027,False,False,,v2store
+32413560,False,False,"re-use, unknown/misspecified source",v2store
+31419613,False,False,,v2store
+30265768,False,False,,v2store
+30649677,False,False,unknown/misspecified source,v2store
+31188535,False,True,,v2store
+32006947,False,False,,v2store
+32199954,False,False,,v2store
+32252541,False,False,,v2store
+32528270,True,False,"field-specific repository, re-use",v2store
+31924728,False,False,,v2store
+32212718,False,False,,v2store
+32359360,False,False,upon request,v2store
+32404505,False,False,,v2store
+31451647,False,False,,v2store
+31498301,False,False,,v2store
+30773890,True,False,field-specific repository,v2store
+30784726,False,False,,v2store
+30901345,True,False,general-purpose repository,v2store
+31189147,False,False,,v2store
+31275221,False,False,upon request,v2store
+31283508,False,False,,v2store
+31621797,False,False,,v2store
+31644424,False,True,supplement,v2store
+31652174,False,False,,v2store
+31692960,False,False,,v2store
+31706638,False,False,,v2store
+31732715,False,False,upon request,v2store
+31837388,False,False,upon request,v2store
+32231295,False,False,,v2store
+32544925,False,False,,v2store
+29800605,False,False,,v2store
+30828290,False,False,re-use,v2store
+29430995,False,False,,v2store
+31353865,False,False,,v2store
+31619702,False,False,,v2store
+31659484,False,False,,v2store
+31678782,False,False,,v2store
+31754940,False,False,,v2store
+31238093,False,False,,v2store
+31787886,False,False,,v2store
+32256314,False,False,supplement,v2store
+32390799,False,False,upon request,v2store
+30602030,False,False,re-use,v2store
+31705163,False,False,,v2store
+31539452,False,False,,v2store
+32532981,False,False,,v2store
+32651265,False,False,,v2store
+32065076,True,False,field-specific repository,v2store
+31996763,True,False,"upon request, field-specific repository, general-purpose repository",v2store
+33203742,False,False,upon request,v2store
+33542404,False,False,,v2store
+34008916,False,False,,v2store
+34009243,False,False,,v2store
+33192714,False,False,upon request,v2store
+34220581,False,False,upon request,v2store
+33080229,False,False,upon request,v2store
+30108313,False,False,,v2store
+32002143,False,False,,v2store
+32638919,True,False,"field-specific repository, re-use, upon request",v2store
+32683586,False,False,,v2store
+32702738,False,False,,v2store
+32869041,False,False,,v2store
+33001331,False,False,,v2store
+33263759,False,False,,v2store
+33331195,False,False,,v2store
+33472387,False,False,"re-use, upon request, unknown/misspecified source",v2store
+33624124,False,False,,v2store
+33854103,False,False,,v2store
+34128464,True,True,"field-specific repository, general-purpose repository",v2store
+35452785,False,True,github,v2store
+32078800,True,True,"field-specific repository, upon request",v2store
+32143830,False,True,"supplement, github",v2store
+32170019,True,True,"field-specific repository, unknown/misspecified source",v2store
+32515138,False,False,,v2store
+32537627,False,False,,v2store
+32620757,False,True,"supplement, github",v2store
+32690678,False,False,"re-use, unknown/misspecified source",v2store
+32831602,False,False,github,v2store
+32959043,False,True,re-use,v2store
+33667782,False,False,,v2store
+32107139,False,False,,v2store
+32314393,False,False,,v2store
+33369747,False,False,,v2store
+33550636,False,False,upon request,v2store
+33559393,False,False,upon request,v2store
+33833479,False,False,upon request,v2store
+33910615,False,False,upon request,v2store
+33962531,False,False,,v2store
+34007002,False,True,upon request,v2store
+34023184,False,False,,v2store
+34049209,False,False,,v2store
+34050321,False,False,upon request,v2store
+34382689,False,False,upon request,v2store
+32075678,True,False,"field-specific repository, re-use",v2store
+32533064,False,True,"supplement, re-use",v2store
+31445059,False,False,,v2store
+31604917,False,False,"re-use, upon request",v2store
+34236312,True,False,"general-purpose repository, supplement, upon request, github",v2store
+32954409,False,False,,v2store
+32992244,False,False,,v2store
+33303679,False,False,,v2store
+33563989,False,True,unknown/misspecified source,v2store
+33773241,False,False,upon request,v2store
+33799270,False,True,github,v2store
+33927342,False,False,,v2store
+34103546,False,True,"github, unknown/misspecified source",v2store
+31791675,False,False,,v2store
+31973999,False,False,,v2store
+32459405,False,False,,v2store
+32801348,False,False,,v2store
+32861983,False,False,,v2store
+33212404,False,False,,v2store
+33945878,False,False,,v2store
+34565652,False,False,,v2store
+32303566,False,False,,v2store
+32569795,False,False,,v2store
+32253361,False,False,upon request,v2store
+32259476,False,False,upon request,v2store
+32483289,False,False,,v2store
+32908146,True,False,"upon request, general-purpose repository",v2store
+33046861,True,True,"upon request, general-purpose repository",v2store
+33285563,False,False,,v2store
+33383478,True,True,"general-purpose repository, upon request",v2store
+33497776,True,True,"general-purpose repository, re-use",v2store
+33500275,False,False,,v2store
+33563728,True,True,"general-purpose repository, re-use",v2store
+34031795,False,False,,v2store
+34099511,False,False,,v2store
+31791039,False,False,upon request,v2store
+32307560,False,False,,v2store
+33005039,False,True,github,v2store
+33150947,False,False,,v2store
+33846229,False,True,,v2store
+33950220,False,True,github,v2store
+33970290,False,True,,v2store
+34254405,False,False,upon request,v2store
+32452462,False,False,,v2store
+32787994,False,False,,v2store
+33030612,False,True,unknown/misspecified source,v2store
+33385507,False,False,re-use,v2store
+33440203,False,False,,v2store
+33517759,False,False,,v2store
+33538051,True,False,general-purpose repository,v2store
+33703868,False,False,github,v2store
+34146888,False,False,upon request,v2store
+32928886,False,False,,v2store
+32984816,False,True,,v2store
+33065012,False,False,"upon request, github",v2store
+33278356,True,False,"field-specific repository, upon request",v2store
+33636119,False,False,upon request,v2store
+33710282,False,False,upon request,v2store
+33822908,False,True,"re-use, unknown/misspecified source",v2store
+32095901,False,False,upon request,v2store
+32699316,False,False,,v2store
+33551757,False,False,upon request,v2store
+33551759,False,False,upon request,v2store
+34189375,False,False,,v2store
+34354220,False,False,,v2store
+33796638,False,False,,v2store
+34264694,False,False,,v2store
+32220318,True,True,"general-purpose repository, upon request",v2store
+33156829,True,False,general-purpose repository,v2store
+33277552,True,False,general-purpose repository,v2store
+32584213,False,False,,v2store
+32790927,False,False,,v2store
+32882144,False,False,,v2store
+33294965,False,False,upon request,v2store
+33295573,False,False,upon request,v2store
+32839438,False,False,,v2store
+33441847,False,False,upon request,v2store
+33558674,True,False,"field-specific repository, re-use, upon request",v2store
+33650257,False,False,upon request,v2store
+33927182,False,False,upon request,v2store
+33975707,False,False,,v2store
+34002096,True,True,"field-specific repository, supplement, re-use, unknown/misspecified source",v2store
+34321704,False,True,,v2store
+33626343,False,False,upon request,v2store
+32218435,True,False,"field-specific repository, upon request",v2store
+33038042,False,False,upon request,v2store
+33060182,False,False,,v2store
+33192273,True,False,"field-specific repository, upon request",v2store
+32990357,False,False,,v2store
+31838871,True,True,"field-specific repository, supplement, re-use, unknown/misspecified source",v2store
+31974374,True,True,"field-specific repository, supplement, re-use, unknown/misspecified source",v2store
+32456505,False,False,re-use,v2store
+33667672,False,False,,v2store
+33771694,False,False,,v2store
+33833224,False,False,,v2store
+34487600,False,False,re-use,v2store
+32745641,False,False,,v2store
+32826283,True,False,field-specific repository,v2store
+33324266,False,False,,v2store
+33444383,False,False,unknown/misspecified source,v2store
+33595445,False,False,upon request,v2store
+33638252,False,False,upon request,v2store
+33656940,False,False,,v2store
+33721086,False,False,,v2store
+34145010,False,False,,v2store
+32173151,False,False,,v2store
+33268547,False,False,,v2store
+32835823,False,False,,v2store
+32918972,False,False,,v2store
+33798259,False,False,,v2store
+33277492,False,False,upon request,v2store
+33522482,False,True,github,v2store
+31127422,False,False,,v2store
+32022347,False,False,upon request,v2store
+32086029,False,False,,v2store
+32235173,False,False,,v2store
+32925705,True,False,field-specific repository,v2store
+32971436,False,False,,v2store
+33306002,False,False,unknown/misspecified source,v2store
+33310014,True,False,"field-specific repository, unknown/misspecified source",v2store
+33637630,False,False,upon request,v2store
+33712380,True,False,field-specific repository,v2store
+33810884,False,False,,v2store
+34114309,False,False,upon request,v2store
+34219655,False,False,,v2store
+34313741,False,False,,v2store
+30376640,False,False,,v2store
+32138941,False,False,,v2store
+33242544,False,False,,v2store
+32329951,False,False,,v2store
+32885124,False,False,,v2store
+30356121,False,False,,v2store
+31372757,False,False,,v2store
+31698079,False,False,,v2store
+32483374,True,True,"field-specific repository, general-purpose repository, github",v2store
+32845057,True,False,"general-purpose repository, github",v2store
+33161103,False,False,,v2store
+33181352,False,False,,v2store
+33189929,False,False,,v2store
+33211184,False,True,,v2store
+33227425,True,True,"general-purpose repository, re-use, github, unknown/misspecified source",v2store
+33299002,False,True,,v2store
+33307224,False,True,,v2store
+33462834,False,False,upon request,v2store
+33789138,False,True,supplement,v2store
+33896622,False,False,,v2store
+34033914,False,True,"re-use, github",v2store
+34262518,False,True,upon request,v2store
+33060616,False,False,,v2store
+33030409,False,False,,v2store
+33104235,False,False,,v2store
+33712461,True,False,"field-specific repository, re-use",v2store
+31957984,False,False,,v2store
+32014552,False,False,,v2store
+32038206,False,False,upon request,v2store
+32151567,False,False,,v2store
+32187319,False,False,,v2store
+32231523,False,False,,v2store
+32279145,False,False,,v2store
+32289719,False,False,,v2store
+32349366,True,False,general-purpose repository,v2store
+32442638,False,False,,v2store
+32636765,False,False,,v2store
+32651051,False,False,,v2store
+32663942,True,False,"field-specific repository, re-use",v2store
+32690618,False,False,,v2store
+32985049,False,False,,v2store
+33588322,False,False,,v2store
+33924639,False,False,upon request,v2store
+34030059,False,False,,v2store
+34074611,False,False,,v2store
+34105708,False,False,,v2store
+34182182,False,False,,v2store
+34321597,False,True,re-use,v2store
+31399635,False,False,,v2store
+31912366,False,False,,v2store
+33897375,False,False,,v2store
+32913109,False,False,,v2store
+31995256,False,False,,v2store
+32172476,True,False,"field-specific repository, re-use",v2store
+32399622,False,False,,v2store
+32459101,False,False,,v2store
+32803050,True,True,"general-purpose repository, re-use",v2store
+33103560,False,False,,v2store
+33055195,False,False,,v2store
+33303681,False,False,,v2store
+33589740,False,False,,v2store
+33940617,False,False,,v2store
+35186306,True,True,"general-purpose repository, re-use, upon request",v2store
+35236846,False,True,"re-use, github, unknown/misspecified source",v2store
+33384331,True,True,field-specific repository,v2store
+33723070,True,True,"field-specific repository, upon request",v2store
+33879819,True,True,"general-purpose repository, upon request",v2store
+35701489,False,False,upon request,v2store
+35903735,True,False,"field-specific repository, general-purpose repository",v2store
+32929215,False,False,upon request,v2store
+35692456,False,False,,v2store
+35728680,False,False,,v2store
+34642704,True,False,"general-purpose repository, unknown/misspecified source",v2store
+34847615,False,True,,v2store
+34921602,True,True,"field-specific repository, general-purpose repository",v2store
+35684987,False,False,,v2store
+35697648,False,False,re-use,v2store
+31875881,False,True,,v2store
+33693614,False,False,supplement,v2store
+33704446,False,False,,v2store
+33752588,False,False,,v2store
+33811142,True,False,"field-specific repository, unknown/misspecified source",v2store
+34117759,False,False,,v2store
+34244364,True,False,"field-specific repository, general-purpose repository, re-use, upon request",v2store
+34359014,False,False,,v2store
+34519385,True,True,"field-specific repository, re-use",v2store
+34650408,False,False,,v2store
+34817560,False,False,,v2store
+34911436,False,False,upon request,v2store
+34504056,True,False,"field-specific repository, upon request",v2store
+34518555,False,False,upon request,v2store
+34529251,False,False,,v2store
+34559195,False,False,,v2store
+34716842,False,False,upon request,v2store
+34740315,False,False,,v2store
+34913584,False,False,upon request,v2store
+35350914,False,False,,v2store
+33853405,False,False,,v2store
+33987672,False,False,re-use,v2store
+34012109,False,True,supplement,v2store
+34328413,False,False,,v2store
+35770336,False,False,,v2store
+35794012,False,False,,v2store
+34647770,False,True,,v2store
+34660212,False,False,,v2store
+34986350,True,True,"upon request, unknown/misspecified source, general-purpose repository",v2store
+35468567,False,False,unknown/misspecified source,v2store
+35473766,False,True,github,v2store
+35492434,False,False,,v2store
+35622896,False,False,,v2store
+33773443,False,False,,v2store
+33795646,False,False,,v2store
+33859356,False,False,,v2store
+33929489,False,False,,v2store
+34052834,False,False,unknown/misspecified source,v2store
+35189151,False,False,,v2store
+35501309,False,False,,v2store
+35768639,False,False,,v2store
+36223450,False,False,upon request,v2store
+33463524,False,False,,v2store
+34727232,True,False,general-purpose repository,v2store
+35074880,True,False,general-purpose repository,v2store
+35597052,True,True,"field-specific repository, general-purpose repository",v2store
+35868861,False,False,,v2store
+32004697,False,True,,v2store
+32954946,False,True,,v2store
+33095373,False,True,,v2store
+33346031,False,False,,v2store
+33386133,False,False,,v2store
+33479511,False,False,,v2store
+33634768,False,False,,v2store
+33706867,False,False,,v2store
+33738691,False,False,upon request,v2store
+33755265,False,False,upon request,v2store
+34111122,False,False,,v2store
+34144216,False,False,,v2store
+34599145,False,False,"upon request, re-use",v2store
+34674235,False,False,upon request,v2store
+34674239,False,False,upon request,v2store
+34737386,True,False,"field-specific repository, general-purpose repository",v2store
+34906711,True,False,general-purpose repository,v2store
+35036479,False,False,,v2store
+35132952,False,False,,v2store
+35136030,False,False,upon request,v2store
+35165974,False,False,upon request,v2store
+35189353,False,False,,v2store
+35256733,False,False,,v2store
+35297127,True,False,general-purpose repository,v2store
+35342779,False,False,,v2store
+35613517,False,False,,v2store
+35652602,False,False,,v2store
+34795053,False,True,"github, unknown/misspecified source",v2store
+35263138,True,True,general-purpose repository,v2store
+34452993,False,False,,v2store
+35654604,False,False,,v2store
+34671032,True,True,"general-purpose repository, upon request",v2store
+35323869,False,False,,v2store
+35389340,True,True,general-purpose repository,v2store
+32599006,False,False,,v2store
+34024018,False,True,,v2store
+34076503,False,False,,v2store
+34724835,False,False,,v2store
+34759268,False,False,re-use,v2store
+34867494,False,False,upon request,v2store
+35308882,False,False,"re-use, upon request, unknown/misspecified source",v2store
+35606814,False,False,upon request,v2store
+33431852,False,False,,v2store
+34497278,False,False,,v2store
+34845190,False,True,,v2store
+34539512,False,False,upon request,v2store
+35325663,False,True,,v2store
+33432721,False,False,upon request,v2store
+35864848,False,False,upon request,v2store
+33527411,False,False,,v2store
+33754230,False,False,,v2store
+33836219,False,False,,v2store
+34083381,False,False,,v2store
+33682938,False,False,upon request,v2store
+33735267,False,False,,v2store
+33837086,False,False,,v2store
+35752065,False,False,upon request,v2store
+33218283,True,False,"field-specific repository, re-use",v2store
+34132755,False,False,,v2store
+34762337,False,False,upon request,v2store
+34820293,False,False,,v2store
+35017298,True,False,"field-specific repository, supplement",v2store
+34401891,False,False,upon request,v2store
+34658255,False,False,,v2store
+34762054,False,True,unknown/misspecified source,v2store
+34838604,False,False,,v2store
+35030631,False,True,github,v2store
+35123338,False,False,upon request,v2store
+35291296,True,False,field-specific repository,v2store
+35386056,False,False,upon request,v2store
+35677875,False,False,"supplement, upon request",v2store
+33486153,True,False,"field-specific repository, re-use",v2store
+33960038,False,False,upon request,v2store
+34400158,False,False,,v2store
+34741979,False,False,,v2store
+35666232,False,False,upon request,v2store
+35841324,False,False,upon request,v2store
+34413514,False,True,"upon request, github",v2store
+35923858,False,False,,v2store
+33574462,False,False,,v2store
+33948606,False,False,,v2store
+34033972,False,False,upon request,v2store
+34382119,False,False,upon request,v2store
+34798488,False,False,,v2store
+34995831,True,False,field-specific repository,v2store
+35605238,False,False,,v2store
+33692176,False,False,upon request,v2store
+33975068,False,False,,v2store
+34060361,False,False,,v2store
+34086728,False,False,,v2store
+34147585,False,False,,v2store
+34390050,False,False,,v2store
+34438022,False,True,,v2store
+35641787,False,False,,v2store
+35794298,False,False,,v2store
+35944754,False,False,,v2store
+37622161,False,False,,v2store
+34371135,False,False,upon request,v2store
+34675189,False,False,,v2store
+33813007,False,False,re-use,v2store
+34273456,False,True,"upon request, github",v2store
+34364993,True,True,"general-purpose repository, github",v2store
+32788687,False,False,,v2store
+33470755,False,False,,v2store
+34035477,False,False,,v2store
+34097071,False,False,upon request,v2store
+32978284,False,False,,v2store
+33491441,False,False,,v2store
+33796956,False,False,upon request,v2store
+34151207,False,False,,v2store
+34756026,False,False,,v2store
+34766247,False,False,,v2store
+35027372,False,False,,v2store
+35209743,False,False,,v2store
+35772961,False,False,,v2store
+34050024,False,False,supplement,v2store
+34433830,False,False,,v2store
+35132885,False,False,,v2store
+35767957,False,False,upon request,v2store
+35997251,False,False,unknown/misspecified source,v2store
+34551415,False,False,upon request,v2store
+34651464,True,False,general-purpose repository,v2store
+34974116,False,False,"upon request, re-use",v2store
+35038479,False,False,upon request,v2store
+35377345,False,True,github,v2store
+35572122,False,False,,v2store
+35745751,False,False,,v2store
+35795258,True,False,"field-specific repository, general-purpose repository",v2store
+34916590,False,False,supplement,v2store
+35027407,False,False,,v2store
+35042795,False,False,unknown/misspecified source,v2store
+34293414,True,False,"field-specific repository, re-use, unknown/misspecified source",v2store
+34649926,True,False,"field-specific repository, upon request",v2store
+35332326,True,True,"field-specific repository, re-use, unknown/misspecified source",v2store
+33479620,False,False,,v2store
+33890705,False,False,,v2store
+34363068,False,False,,v2store
+34614419,False,False,upon request,v2store
+34927540,True,False,field-specific repository,v2store
+35122262,False,False,upon request,v2store
+35169716,False,False,upon request,v2store
+35584788,False,False,upon request,v2store
+35688289,False,False,re-use,v2store
+36849591,True,True,"general-purpose repository, github",v2store
+35288121,True,False,general-purpose repository,v2store
+35546886,True,False,"field-specific repository, re-use",v2store
+35851328,True,False,field-specific repository,v2store
+36257690,False,False,,v2store
+36805499,True,True,field-specific repository,v2store
+37002277,False,False,upon request,v2store
+36008415,True,True,"field-specific repository, re-use",v2store
+36772948,False,False,,v2store
+36578652,False,False,upon request,v2store
+36610394,True,True,"general-purpose repository, upon request, github",v2store
+36912623,False,False,upon request,v2store
+35354053,True,True,"upon request, field-specific repository",v2store
+35393403,False,False,re-use,v2store
+35544191,False,False,,v2store
+35868430,False,True,re-use,v2store
+35939696,False,True,"re-use, unknown/misspecified source",v2store
+36203018,True,True,"field-specific repository, general-purpose repository, github, unknown/misspecified source",v2store
+36309332,False,True,,v2store
+36342372,True,True,"field-specific repository, github, unknown/misspecified source",v2store
+36631267,True,False,general-purpose repository,v2store
+36803654,False,False,upon request,v2store
+37192167,True,False,"field-specific repository, supplement",v2store
+37480975,False,False,,v2store
+34981308,False,False,,v2store
+35093143,False,False,,v2store
+35876076,False,True,,v2store
+36562498,False,False,upon request,v2store
+36973172,False,False,,v2store
+37276389,False,False,,v2store
+36716320,False,True,,v2store
+35092868,False,False,upon request,v2store
+35194167,False,False,,v2store
+35732692,False,False,,v2store
+37536999,False,False,re-use,v2store
+35494244,False,False,upon request,v2store
+36104281,False,False,upon request,v2store
+37024449,False,True,github,v2store
+36316315,True,False,"general-purpose repository, upon request",v2store
+36459788,True,True,general-purpose repository,v2store
+36791506,True,True,general-purpose repository,v2store
+36847339,True,True,"general-purpose repository, github",v2store
+37012369,True,False,general-purpose repository,v2store
+37023490,False,False,,v2store
+37126552,True,False,general-purpose repository,v2store
+35358745,False,False,,v2store
+36442665,False,False,,v2store
+36044550,False,False,,v2store
+36335105,True,True,general-purpose repository,v2store
+36961903,True,False,"general-purpose repository, upon request",v2store
+36976252,False,False,,v2store
+37137888,True,True,"general-purpose repository, unknown/misspecified source",v2store
+36319119,False,False,,v2store
+36273204,True,True,"general-purpose repository, re-use",v2store
+36309512,False,False,github,v2store
+37479723,False,False,github,v2store
+35039102,False,False,,v2store
+37030330,False,False,upon request,v2store
+35048876,False,False,"upon request, unknown/misspecified source",v2store
+35225756,False,False,re-use,v2store
+36882501,True,True,"field-specific repository, re-use",v2store
+36932057,True,True,"field-specific repository, re-use",v2store
+37528149,True,False,"field-specific repository, re-use",v2store
+36525362,False,False,,v2store
+36714202,True,False,"field-specific repository, unknown/misspecified source",v2store
+36781221,False,False,upon request,v2store
+37497043,False,True,upon request,v2store
+36311277,False,False,,v2store
+36837829,False,False,upon request,v2store
+37183798,False,False,,v2store
+37500714,True,False,field-specific repository,v2store
+33712377,False,False,,v2store
+35922549,False,False,,v2store
+36648999,False,False,upon request,v2store
+36104774,False,False,upon request,v2store
+36273745,False,False,,v2store
+36345264,False,False,upon request,v2store
+36501197,False,False,upon request,v2store
+36528859,False,False,upon request,v2store
+36694157,True,False,"field-specific repository, upon request",v2store
+36788583,False,True,re-use,v2store
+37338905,False,False,,v2store
+37430261,False,False,upon request,v2store
+37538853,False,False,,v2store
+37309259,False,False,upon request,v2store
+36269044,False,False,unknown/misspecified source,v2store
+36867023,True,False,"field-specific repository, general-purpose repository, re-use",v2store
+36858826,False,False,re-use,v2store
+35089540,False,False,,v2store
+35248306,True,False,field-specific repository,v2store
+35618222,True,False,field-specific repository,v2store
+35876450,False,False,,v2store
+36071616,False,False,,v2store
+36094488,False,False,,v2store
+36384062,False,False,,v2store
+36574583,False,False,,v2store
+36789551,True,False,field-specific repository,v2store
+37105760,False,False,upon request,v2store
+37301325,False,False,upon request,v2store
+36287532,False,False,,v2store
+36325887,False,True,upon request,v2store
+36977629,False,False,,v2store
+37062362,False,False,,v2store
+37327955,False,True,,v2store
+37359142,False,False,"upon request, unknown/misspecified source",v2store
+37431391,False,False,upon request,v2store
+36456558,False,True,unknown/misspecified source,v2store
+36793774,True,True,"general-purpose repository, re-use",v2store
+37116766,True,False,"field-specific repository, re-use, github",v2store
+37253795,False,False,upon request,v2store
+35781079,False,False,,v2store
+37090794,True,True,"general-purpose repository, re-use",v2store
+37243588,True,True,"general-purpose repository, upon request, github",v2store
+36782063,False,True,,v2store
+37372414,False,False,upon request,v2store
+35798558,False,False,,v2store
+37249618,False,False,upon request,v2store
+35453132,False,False,upon request,v2store
+35642516,True,False,"general-purpose repository, upon request",v2store
+36115809,False,False,,v2store
+36240726,False,False,re-use,v2store
+36280099,False,False,,v2store
+36482369,False,False,upon request,v2store
+36548994,False,True,unknown/misspecified source,v2store
+36746924,False,False,upon request,v2store
+36780560,True,True,"general-purpose repository, supplement",v2store
+36878110,False,False,,v2store
+36922930,False,False,upon request,v2store
+36925066,False,False,,v2store
+37196934,False,False,,v2store
+37198960,False,False,,v2store
+37400828,False,False,"upon request, unknown/misspecified source",v2store
+37519467,False,False,,v2store
+36441759,False,False,supplement,v2store
+36163279,True,True,"field-specific repository, general-purpose repository, upon request, github, unknown/misspecified source",v2store
+36380233,True,True,"field-specific repository, re-use",v2store
+36694041,True,False,"field-specific repository, re-use",v2store
+37037607,False,True,"re-use, upon request, unknown/misspecified source",v2store
+37133648,False,False,,v2store
+36316563,True,False,"general-purpose repository, re-use, upon request, github, unknown/misspecified source",v2store
+36958466,False,False,upon request,v2store
+35996540,False,False,,v2store
+36608175,False,False,,v2store
+36652272,False,False,,v2store
+37017827,False,False,,v2store
+36414405,False,False,,v2store
+38733760,False,True,upon request,v2store
+37804305,False,False,"re-use, upon request",v2store
+39009835,True,True,"field-specific repository, upon request, github, unknown/misspecified source",staging
+38236296,False,False,upon request,v2store
+39131306,False,False,,v2store
+38614102,False,False,upon request,v2store
+37781088,False,False,upon request,v2store
+38766181,False,False,,v2store
+38552022,False,False,unknown/misspecified source,v2store
+38766011,False,False,,v2store
+38040678,False,False,upon request,v2store
+38834540,False,True,upon request,v2store
+38402253,False,False,upon request,v2store
+38697012,False,False,upon request,v2store
+38162029,False,False,upon request,v2store
+37668277,False,False,upon request,v2store
+38127536,True,True,general-purpose repository,v2store
+37699706,True,False,"general-purpose repository, upon request",v2store
+38438256,False,False,,v2store
+38809774,True,True,"general-purpose repository, re-use, github",v2store
+38310748,False,False,,v2store
+38653350,False,False,,v2store
+38472615,False,False,,v2store
+37257724,False,True,,v2store
+37683231,False,False,upon request,v2store
+38389984,False,False,upon request,v2store
+37345685,False,False,upon request,v2store
+38709724,True,False,general-purpose repository,v2store
+37881548,False,False,,v2store
+37751811,True,True,general-purpose repository,v2store
+38508496,False,False,,v2store
+37316518,True,True,general-purpose repository,v2store
+38585923,True,False,"general-purpose repository, github",v2store
+38141965,False,False,upon request,v2store
+38458192,False,True,"upon request, github",v2store
+37734478,True,True,"field-specific repository, general-purpose repository",v2store
+38271138,True,True,general-purpose repository,v2store
+37676862,True,False,"field-specific repository, general-purpose repository",v2store
+37172584,False,True,"upon request, github",v2store
+38937102,False,False,upon request,v2store
+37963894,False,True,github,v2store
+37326523,False,False,upon request,v2store
+38045768,False,False,,v2store
+37662312,True,True,"field-specific repository, general-purpose repository, re-use, upon request",v2store
+38864574,False,False,,v2store
+37745325,False,False,re-use,v2store
+38062014,False,False,"supplement, upon request",v2store
+38582659,False,False,,v2store
+36649170,False,False,upon request,v2store
+38705917,False,False,upon request,v2store
+38261410,True,False,"field-specific repository, re-use",v2store
+37633900,True,False,field-specific repository,v2store
+38375233,False,True,"re-use, upon request, github",v2store
+38058018,True,True,"field-specific repository, upon request",v2store
+38800632,False,False,,v2store
+38865117,False,False,,v2store
+38523136,False,False,github,v2store
+37883086,False,False,,v2store
+37980914,True,False,"general-purpose repository, upon request",v2store
+37680185,False,False,upon request,v2store
+37623204,True,False,"general-purpose repository, re-use",v2store
+37082755,False,False,,v2store
+38423785,False,False,,v2store
+38796702,True,False,general-purpose repository,v2store
+38253691,False,False,upon request,v2store
+38347293,False,False,,v2store
+37918939,False,False,,v2store
+37644173,False,False,upon request,v2store
+38703765,True,True,"field-specific repository, supplement, re-use, upon request, github",v2store
+37139702,True,False,general-purpose repository,v2store
+37789021,False,True,,v2store
+38750701,False,True,upon request,v2store
+36802419,True,True,general-purpose repository,v2store
+37519457,False,False,,v2store
+36630962,False,True,upon request,v2store
+38617819,True,False,general-purpose repository,v2store
+38266217,False,False,upon request,v2store
+37574463,False,False,upon request,v2store
+39060437,False,False,,v2store
+38688917,True,True,"field-specific repository, general-purpose repository, supplement, upon request, unknown/misspecified source",v2store
+39097600,False,True,github,v2store
+38838841,False,False,upon request,v2store
+37684522,False,False,re-use,v2store
+36796842,False,False,,v2store
+38175682,True,False,general-purpose repository,v2store
+38212442,False,False,,v2store
+37985787,False,False,,v2store
+38055283,False,False,,v2store
+37626817,False,False,upon request,v2store
+38903065,False,False,unknown/misspecified source,v2store
+38453003,False,False,re-use,v2store
+37275969,False,False,upon request,v2store
+37217075,False,False,,v2store
+38070470,False,False,,v2store
+37169276,False,False,,v2store
+37907689,False,True,,v2store
+38812486,False,False,upon request,v2store
+38009970,False,False,,v2store
+39079555,False,False,upon request,v2store
+38315887,False,False,,v2store
+37873560,False,False,,v2store
+38534532,False,False,"re-use, upon request",v2store
+38109328,False,False,,v2store
+38316038,True,True,general-purpose repository,staging
+37995942,False,False,upon request,v2store
+37699025,False,False,supplement,v2store
+37881563,False,False,,v2store
+37852041,True,True,general-purpose repository,v2store
+38499772,True,True,general-purpose repository,v2store
+37965354,False,False,upon request,v2store
+38649755,True,True,"field-specific repository, general-purpose repository, re-use, github, unknown/misspecified source",v2store
+38942023,True,True,"field-specific repository, general-purpose repository, re-use, upon request, github",v2store
+38488854,False,True,"supplement, re-use, upon request",v2store
+38324465,False,False,,v2store
+38878300,True,True,field-specific repository,v2store
+37777515,True,False,"general-purpose repository, re-use",v2store
+38362961,False,False,upon request,v2store
+38782925,True,False,"field-specific repository, supplement",v2store
+37688670,False,False,,v2store
+35924876,True,False,field-specific repository,v2store
+38511908,False,False,,v2store
+37992755,False,False,,v2store
+38048352,False,False,supplement,v2store
+36605613,False,False,upon request,v2store
+38467611,True,False,field-specific repository,v2store
+38502331,True,False,general-purpose repository,v2store
+38296647,False,True,,v2store
+38870010,False,True,upon request,v2store
+37141014,False,False,,v2store
+38536912,False,False,,v2store
+39101126,False,True,github,v2store
+37950937,False,False,"github, unknown/misspecified source",v2store
+38483126,True,True,field-specific repository,v2store
+39026896,False,False,upon request,v2store
+38198528,True,True,general-purpose repository,v2store
+38637553,False,False,upon request,v2store
+38524664,False,False,,v2store
+39122558,False,False,,v2store
+37081296,False,True,"github, unknown/misspecified source",v2store
+37397813,False,False,upon request,v2store
+37397810,True,False,general-purpose repository,v2store
+37983250,False,False,github,v2store
+37953324,False,False,,v2store
+38641994,False,False,upon request,v2store
+37086568,False,False,upon request,v2store
+36650450,False,False,upon request,v2store
+38730350,False,False,,v2store
+37662495,False,False,,v2store
+38200289,False,False,upon request,v2store
+37012188,False,False,"upon request, unknown/misspecified source",v2store
+38050135,False,False,,v2store
+38538211,False,False,upon request,v2store
+38991613,True,True,"general-purpose repository, upon request, unknown/misspecified source",staging
+38263879,False,False,,v2store
+37851393,False,False,upon request,v2store
+37433967,False,False,,v2store
+38395906,True,False,"field-specific repository, re-use",v2store
+38577766,False,False,,v2store
+38012005,False,False,unknown/misspecified source,v2store
+38987549,False,False,,v2store
+37848282,False,True,,v2store
+38839828,False,False,"upon request, unknown/misspecified source",v2store
+38670805,False,True,,v2store
+37776852,False,False,"upon request, re-use",v2store
+38870015,True,True,"general-purpose repository, upon request",v2store
+38562584,False,True,unknown/misspecified source,v2store
+38222065,True,True,general-purpose repository,staging
+38239478,True,False,"general-purpose repository, upon request",v2store
+36283814,False,False,upon request,v2store
+37881538,False,False,,v2store
+38903066,False,False,unknown/misspecified source,v2store
+37745464,False,False,,v2store
+37865083,True,False,"general-purpose repository, upon request",v2store
+37865082,False,True,github,v2store
+38602904,True,False,"general-purpose repository, re-use",v2store
+37583705,False,False,upon request,v2store
+37179505,False,False,unknown/misspecified source,staging
+37768018,False,False,,staging
+38256240,False,False,,staging
+38527093,False,False,,staging
+38558204,True,False,"general-purpose repository, re-use, upon request, unknown/misspecified source",v2store
+38605038,True,False,"field-specific repository, re-use",v2store
+38652102,False,False,,staging
+38697379,True,False,"general-purpose repository, re-use",staging
+38820560,False,False,,staging
+38821194,False,False,,staging
+38874947,False,False,upon request,staging
+38982828,False,True,,staging
+39011872,True,False,"field-specific repository, supplement",staging
+39024096,True,True,"general-purpose repository, supplement, upon request, github, unknown/misspecified source",staging
+39054770,False,False,upon request,v2store
+39108178,False,False,,staging
+39138481,False,False,supplement,v2store
+39178859,True,False,field-specific repository,staging
+39198415,False,True,github,v2store
+39214044,False,False,,staging
+39239979,True,False,"field-specific repository, re-use",staging
+39240791,False,False,,staging
+39257296,False,False,upon request,staging
+39258625,False,False,,staging
+39271676,True,False,"field-specific repository, supplement",v2store
+39285225,False,False,upon request,v2store
+39299588,False,False,,staging
+39301427,False,False,,staging
+39317851,False,False,upon request,staging
+39321792,True,True,"upon request, general-purpose repository, github",staging
+39348142,False,False,,staging
+39349967,True,False,general-purpose repository,staging
+39358023,False,False,,staging
+39358515,True,False,"field-specific repository, general-purpose repository, re-use, upon request, github, unknown/misspecified source",v2store
+39376052,False,False,upon request,staging
+39381142,True,True,"field-specific repository, general-purpose repository, re-use, github",staging
+39390064,True,False,"upon request, general-purpose repository, supplement, unknown/misspecified source",v2store
+39400175,False,False,,staging
+39414794,False,True,github,v2store
+39422490,False,False,,staging
+39438478,True,False,"upon request, general-purpose repository, re-use",v2store
+39441700,False,True,,staging
+39458453,False,False,"re-use, github",staging
+39485801,True,False,general-purpose repository,staging
+39510724,False,False,,staging
+39513469,False,False,upon request,staging
+39515580,False,False,,staging
+39552158,False,False,,staging
+39572741,False,False,,staging
+39575179,True,True,"general-purpose repository, unknown/misspecified source",staging
+39593222,True,False,"field-specific repository, re-use, upon request, unknown/misspecified source",staging
+39613748,False,False,,staging
+39615669,False,False,,staging
+39617360,False,False,,staging
+39623765,False,False,upon request,staging
+39636671,False,False,,staging
+39640511,True,False,"field-specific repository, general-purpose repository",staging
+39644712,False,False,,staging
+39653808,False,False,"upon request, unknown/misspecified source",v2store
+39654356,False,False,,staging
+39656432,False,True,github,v2store
+39658135,False,False,upon request,staging
+39658838,False,False,,staging
+39661675,True,False,general-purpose repository,staging
+39661754,False,True,"upon request, github",staging
+39665712,False,False,,staging
+39667704,False,False,,staging
+39674325,False,False,,staging
+39710004,False,False,,staging
+39730881,False,False,upon request,v2store
+39732084,False,False,upon request,staging
+39739012,False,False,upon request,staging
+39745023,False,False,,staging
+39746804,True,False,general-purpose repository,staging
+39755201,True,True,general-purpose repository,staging
+39755291,True,False,general-purpose repository,staging
+39755366,False,True,,staging
+39789842,True,False,"field-specific repository, supplement",staging
+39800158,False,False,,staging
+39834120,True,False,field-specific repository,staging
+39834697,True,True,"general-purpose repository, github, unknown/misspecified source",v2store
+39837662,True,False,"general-purpose repository, upon request",staging
+39843750,True,False,"field-specific repository, re-use, github",staging
+39848764,True,False,field-specific repository,staging
+39856216,False,True,re-use,staging
+39870620,False,True,github,v2store
+39891447,False,False,,staging
+39899847,False,False,,staging
+39904205,False,False,upon request,staging
+39907092,False,False,unknown/misspecified source,staging
+39912805,False,False,,staging
+39927786,False,False,,staging
+39932763,True,False,general-purpose repository,staging
+39945685,False,False,"re-use, upon request",staging
+39948078,False,False,,staging
+39954247,False,False,,staging
+39955416,False,False,upon request,staging
+39957839,True,True,"general-purpose repository, github, unknown/misspecified source",staging
+39971401,False,False,,staging
+39979602,False,True,upon request,staging
+39987026,False,False,upon request,staging
+39993533,False,False,,staging
+40011781,True,True,"general-purpose repository, upon request",staging
+40054569,False,False,upon request,staging
+40059990,False,False,,staging
+40064429,False,False,upon request,staging
+40065551,False,False,"supplement, upon request",staging
+40069095,False,False,,staging
+40073228,False,True,"upon request, github",staging
+40079433,True,True,"field-specific repository, general-purpose repository",staging
+40088452,True,False,"field-specific repository, upon request",staging
+40098476,False,False,github,staging
+40100902,False,False,re-use,staging
+40102056,False,False,upon request,staging
+40103289,False,False,"supplement, upon request",staging
+40108161,True,False,"general-purpose repository, github",staging
+40118942,False,True,"github, unknown/misspecified source",staging
+40134451,True,True,general-purpose repository,staging
+40162057,False,False,,staging
+40173222,False,False,unknown/misspecified source,staging
+40173320,True,True,"field-specific repository, general-purpose repository, github",staging
+40176400,False,False,upon request,staging
+40213706,False,False,,staging
+40242473,False,True,"re-use, github, unknown/misspecified source",staging
+40266375,False,False,,staging
+40285555,False,False,upon request,staging
+40288397,False,False,,staging
+40292611,True,False,general-purpose repository,staging
+40307697,False,False,upon request,staging
+40310720,True,False,"general-purpose repository, upon request",staging
+40311436,False,False,upon request,staging
+40312509,True,False,"field-specific repository, upon request",staging
+40328099,False,False,,staging
+40339574,True,True,"general-purpose repository, upon request",staging
+40367389,True,False,field-specific repository,staging
+40374560,False,False,,staging
+40398609,False,False,,staging
+40402559,False,False,,staging
+40403705,True,False,"field-specific repository, upon request",staging
+40407890,False,False,upon request,staging
+40472930,False,False,,staging
+40479619,True,False,field-specific repository,staging
+40480486,False,True,re-use,staging
+40480991,True,True,"field-specific repository, unknown/misspecified source",staging
+40488421,False,False,unknown/misspecified source,staging
+40519070,True,False,"field-specific repository, upon request",staging
+40525490,False,False,upon request,staging
+40525963,False,True,,staging
+40531066,False,False,,staging
+40536230,True,True,general-purpose repository,staging
+40540570,False,False,supplement,staging
+40547258,False,False,,staging
+40557566,False,False,upon request,staging
+40584527,True,False,field-specific repository,staging
+40598550,False,False,"re-use, github, unknown/misspecified source",staging
+40633889,False,False,,staging
+40669128,True,True,"general-purpose repository, github",staging
+40669703,False,False,,staging
+40675262,False,False,,staging
+40675952,True,True,"field-specific repository, general-purpose repository",staging
+40681989,False,False,,staging
+40686931,False,False,"re-use, upon request",staging
+40709916,True,True,general-purpose repository,staging
+40721320,False,False,,staging
+40800513,False,False,,staging
+40946890,False,False,,staging
+42083927,True,False,field-specific repository,staging
