@@ -139,6 +139,8 @@ Headline counts are collaborator *listings*: a person named on two or three repo
 **M13. Slide 8 — concentration and the report's own footnote conflict.**
 76 of 1,178 searched publications (6.5%) have any policy mention; two consortium papers ("Brain charts for the human lifespan", 34 mentions; "Neurodevelopment of the association cortices", 25) account for 59 of 216 mention-instances (27%). The Library report is internally inconsistent — p.9 footnote says "Of 122 publications searched in BMJ Impact Analytics", note 14 says 1,178 publications / 1,170 DOIs / 1,143 PMIDs. The deck inherits whichever is right. *Fix:* add "(76 publications cited)" and ask the Library to resolve 122 vs 1,178 before OSPPC sees the report.
 
+> **Resolution (2026-09-11):** Jenny asked; Joelle confirmed the 122 was a typo carried over from a template spreadsheet and issued a corrected report (`…_2021_2025_corrected.pdf`). The corrected PDF differs from the original in exactly that one line — all 1,178 publications were searched in BMJ Impact Analytics — so the 117 / 32 / 76 figures are complete counts, not lower bounds, and slide 8 needs no change.
+
 **M14. Slide 1 — "52 PIs report NIMH collaborations".**
 51 investigators report ≥1 NIMH collaborator; the 52nd node (Plenz) is only named by others. Same convention as the 2019/2022 decks ("54"/"53" were also node counts), so the trend is consistent, but the verb is wrong. *Fix:* "52 PIs connected by reported collaborations" or "51 PIs report…".
 

@@ -146,6 +146,11 @@ guidelines citing IRP work. Key cross-check: ~15 of its top-20 co-publication
 institutions also appear in PI-reported collaborations, while its author search
 found 90 FY2025-window publications the annual reports never listed (PIs
 under-report). Deck slides 6–8 use charts cropped from the report PDF.
+The report was re-issued on 2026-09-11 (`…_2021_2025_corrected.pdf`) to fix a
+single footnote typo the red-team review caught (p. 9 said 122 publications
+were searched in BMJ Impact Analytics; the correct figure, matching note 14,
+is 1,178). Nothing else changed, so every number the deck takes from the
+report stands.
 
 **FY2025 publication corpus** — `nimh_irp_fy2025_publications.ris` (229 DOIs,
 214 with PMIDs): union of annual-report publications (Josh Lawrimore's
